@@ -1,1 +1,3 @@
-Welcome to the CanastaClubArdagger rules for regular Canasta!
+# Classic Canasta
+
+Die Canasta Club Ardagger Regeln für das klassische Canasta.
